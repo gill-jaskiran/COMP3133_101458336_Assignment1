@@ -1,8 +1,15 @@
-How to run 
+## Assignment 01
 
-Install Dependancies
-- npm install 
+### Jaskiran Gill 
+### 101458336 
 
-Start Server 
-- node server.js
+
+
+## How to run 
+
+### Install Dependancies:
+### - npm install 
+###
+### Start Server:
+### - node server.js
 
